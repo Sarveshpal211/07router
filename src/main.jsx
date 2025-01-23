@@ -6,7 +6,7 @@ import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } 
 
 import Header from './components/Header/Header.jsx'
 import About from './components/About/About.jsx'
-import Layout from './layout.jsx'
+import Layout from './Layout.jsx'
 import Home from './components/Home/Home.jsx'
 import Contacts from './components/Contacts/Contacts.jsx'
 import User from './components/User/User.jsx'
